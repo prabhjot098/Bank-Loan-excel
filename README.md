@@ -103,11 +103,6 @@ I incorporated slicers for filtering data by time, region, and loan status. Thes
 ### 6. Final Touches and Formatting
 Finally, I applied consistent colors, themes, and fonts. Metrics were formatted with currency symbols, and charts were adjusted for optimal clarity.
 
----
-
-## Challenges and Solutions
-
-One challenge was ensuring data accuracy in calculations for MTD and MoM comparisons. To resolve this, I used Excel’s **SUMIF** and **AVERAGEIF** functions with date filters to calculate metrics accurately, ensuring reliable monthly comparisons.
 
 ---
 
